@@ -1,0 +1,11 @@
+{
+    "name": "adjustable_exoskeletons",
+    "version": "1.0.1",
+    "title": "Adjustable Exoskeletons",
+    "author": "royalmustard, xelantro",
+    "contact": "dev@memium.de",
+    "homepage": "https://memium.de",
+    "factorio_version": "0.18",
+    "dependencies": ["base >= 0.18"],
+    "description": "This mod adds a slider to control your exoskeletons."
+}
